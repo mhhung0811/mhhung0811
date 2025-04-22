@@ -6,15 +6,15 @@ A passionate game development enthusiast and a software engineering student, dri
 
 
 ## ✒ Skills
-| Stats | Top Languages |
-|--------|--------|
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhhung0811&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhhung0811&layout=compact&theme=tokyonight&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT) |
-
 **Programming Languages:** <br><br>
 [![Programming Languages](https://skillicons.dev/icons?i=cs,cpp,ts,js,dart,java)](https://github.com/mhung0811/)
 
 **Frameworks and Technologies:**<br><br>
 [![Frameworks](https://skillicons.dev/icons?i=dotnet,unity,react,nodejs,flutter,spring)](https://github.com/mhhung0811/)
+
+| Stats | Top Languages |
+|--------|--------|
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhhung0811&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhhung0811&layout=compact&theme=tokyonight&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT) |
 
 ## 💼 Connect with Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Mai%20Hoàng%20Hưng-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/hung-mai-hoang-b130561b5/)
