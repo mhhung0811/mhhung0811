@@ -7,10 +7,10 @@ A passionate game development enthusiast and a software engineering student, dri
 
 ## ✒ Skills
 **Programming Languages:** <br><br>
-[![Programming Languages](https://skillicons.dev/icons?i=cs,cpp,ts,js,dart,java)](https://github.com/mhung0811/)
+[![Programming Languages](https://skillicons.dev/icons?i=cs,cpp,ts,js,dart)](https://github.com/mhung0811/)
 
 **Frameworks and Technologies:**<br><br>
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,unity,react,nodejs,flutter,spring)](https://github.com/mhhung0811/)
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,unity,react,nodejs,flutter)](https://github.com/mhhung0811/)
 
 | Stats | Top Languages |
 |--------|--------|
